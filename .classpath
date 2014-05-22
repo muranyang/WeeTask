@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/avro-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/classmate-0.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/com.springsource.org.aspectj.runtime-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/commons-pool-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/hibernate-core-4.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/hibernate-search-engine-4.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/hibernate-search-orm-4.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/hibernate-validator-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/hibernate-validator-annotation-processor-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/jackson-all-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/jandex-1.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/jboss-logging-3.1.0.CR2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/joda-time-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/jstl-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/lucene-core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.aop-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.asm-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.aspects-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.beans-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.context-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.context.support-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.core-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.expression-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.instrument-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.instrument.tomcat-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.jdbc-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.js-2.3.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.orm-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.transaction-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.web-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/org.springframework.web.servlet-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/snappy-java-1.0.1-rc3.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/spring-security-acl-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/spring-security-config-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/spring-security-core-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/spring-security-taglibs-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/spring-security-web-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/tiles-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/tiles-core-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/tiles-jsp-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/tiles-servlet-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/tiles-template-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/urlrewrite-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/springsource/spring-roo-1.2.2.RELEASE/bin/lib/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

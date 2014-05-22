@@ -1,0 +1,111 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12.0pt;
+	background-color: #EBDDE2;
+	color: red;
+	margin: 0;
+	padding: 0;
+}
+
+#second {
+	
+}
+
+
+
+th,td {
+	border: 1px solid black;
+	color: #151B54;
+	width: auto;
+	margin: auto;
+	background-color: #FAF7FF;
+	word-wrap: break-word;
+	 text-align:  left;
+	 height: auto;
+}
+ #table1{
+  width: 10cm;
+  margin: auto;
+ }
+.col1 {
+	width: 7cm;
+	text-align: left;
+}
+
+#add {
+	text-align: center;
+}
+
+.txtbox {
+	width: 10cm;
+}
+
+.taskManager {
+	color: #151B54;
+	font-family: cursive;
+	text-align: center;
+}
+
+h1 {
+	position: relative;
+	left: auto;
+	right: auto;
+}
+
+#task {
+	color: #151B54;
+	font-family: cursive;
+	text-align: center;
+}
+
+#header1 {
+	position: relative;
+	height: 20%;
+	background-color: white;
+	width: 100%;
+	display: block;
+	overflow: inherit;
+	color: red;
+	size: 50cm;
+	text-align: center;
+}
+
+#table2 {
+	width: 100%;
+	table-layout: fixed;
+	word-wrap: break-word;
+}
+
+.tlcol {
+	width: 20px;
+	word-wrap: break-word;
+}
+
+#welcome {
+	text-align: center;
+}
+
+.error {
+	color: red;
+	text-align: : center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.errorBlock {
+	color: #000;
+	background-color: #ffEEEE;
+	border: 3px solid #ff0000;
+	padding: 8px;
+	margin: 16px;
+	text-align: center;
+}
+
+#a{
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+

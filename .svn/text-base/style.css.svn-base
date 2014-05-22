@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+
+
+body{
+	background-color:pink;
+	
+}
+h1
+{
+color:red;
+text-align:left;
+font-size:8pt;
+}
+
+tr{
+	
+	color:pink
+}

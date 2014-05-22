@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Panel" id="14" x="143" y="181" width="378" height="252" measuredWidth="378" measuredHeight="252"/>
+  <widgets xsi:type="model:TextField" id="15" x="367" y="224" text="TaskName" measuredWidth="66" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="16" x="320" y="399" text="OK" measuredWidth="36" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="17" x="367" y="335" text="  DD/MM  /YYYY  " measuredWidth="129" measuredHeight="22"/>
+  <widgets xsi:type="model:TextField" id="18" x="367" y="261" text="assignee" measuredWidth="56" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="19" x="367" y="296" text="Description" measuredWidth="70" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="21" x="233" y="224" text="Task Name" measuredWidth="65" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="233" y="261" text="Assignee" measuredWidth="53" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="233" y="296" text="Description" measuredWidth="65" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="233" y="335" text="Date" measuredWidth="31" measuredHeight="22">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

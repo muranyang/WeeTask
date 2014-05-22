@@ -1,0 +1,109 @@
+10
+
+dir
+37
+svn://popsl02.phac-aspc.gc.ca/LEARNING/SmallAssignment/src/main/workspace/.metadata/.plugins
+svn://popsl02.phac-aspc.gc.ca/LEARNING
+
+
+
+2013-02-15T17:54:50.974270Z
+6
+MYANG
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1c6bbe78-5684-11e2-8a29-19435c87f176
+
+com.atlassian.connector.eclipse.jira.core
+dir
+
+org.eclipse.core.resources
+dir
+
+org.eclipse.core.runtime
+dir
+
+org.eclipse.debug.core
+dir
+
+org.eclipse.e4.workbench
+dir
+
+org.eclipse.jdt.core
+dir
+
+org.eclipse.jdt.launching
+dir
+
+org.eclipse.jdt.ui
+dir
+
+org.eclipse.m2e.core
+dir
+
+org.eclipse.m2e.logback.configuration
+dir
+
+org.eclipse.mylyn.bugzilla.core
+dir
+
+org.eclipse.mylyn.context.core
+dir
+
+org.eclipse.mylyn.tasks.ui
+dir
+
+org.eclipse.pde.core
+dir
+
+org.eclipse.team.cvs.core
+dir
+
+org.eclipse.team.svn.core
+dir
+
+org.eclipse.team.svn.revision.graph
+dir
+
+org.eclipse.ui
+dir
+
+org.eclipse.ui.intro
+dir
+
+org.eclipse.ui.workbench
+dir
+
+org.eclipse.wst.jsdt.core
+dir
+
+org.eclipse.wst.server.core
+dir
+
+org.springframework.ide.eclipse.aop.core
+dir
+
+org.springframework.ide.eclipse.beans.core.metadata
+dir
+
+org.springframework.ide.eclipse.osgi.targetdefinition
+dir
+
+org.springframework.ide.eclipse.roo.core
+dir
+
+org.springsource.ide.eclipse.commons.frameworks.core
+dir
+
